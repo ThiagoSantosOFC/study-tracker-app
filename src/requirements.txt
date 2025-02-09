@@ -1,0 +1,15 @@
+customtkinter
+plyer
+matplotlib
+plotly
+pillow
+numpy
+darkdetect
+colorama
+
+# Requisições HTTP para interagir com o backend
+requests
+
+# Testes para o app desktop
+pytest
+pytest-asyncio
